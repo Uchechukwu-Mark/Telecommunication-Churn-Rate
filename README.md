@@ -1,5 +1,7 @@
 **Customer Churn Analysis (Power BI Dashboard)**
 
+![Screenshot 2025-05-26 180857](https://github.com/user-attachments/assets/681ff73f-23cc-43a2-99a9-813e3daef817)
+
 In this project, I developed an interactive Customer Churn Dashboard using Power BI to analyze a telecommunications dataset of over 7,000 customers. The dashboard leverages dynamic slicers — particularly Tech Support and Churn status — to uncover patterns driving customer attrition and potential revenue loss.
 
 **🔍 Key Business Insights:** 
